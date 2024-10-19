@@ -1,0 +1,48 @@
+/* 480-320 */
+@media (max-width: 481px) {
+    /* header */
+    .header_class {
+        padding : 18px 8px ;
+    }
+}
+
+/* section 1 */
+@media (max-width: 481px) {
+    .section_main_1 {
+        height: 320px;
+        padding-top: 60px; 
+    }
+    
+    .section_main_1_article_text {
+        font-size: 32px;
+       
+    }
+    /* .row_icon {
+        width: 40px;
+        height: 40px;
+       amas vakomentareb imitom rom dapataravebisas shua xazit vegar vusworeb
+    } */
+}
+ /* section 2 */
+@media (max-width: 481px) {
+    .section_main_2 {
+        padding: 24px 0px 24px 8px;
+       }
+}
+    .section_main_2_text {
+        font-size: 24px;
+        padding-bottom: 24px;
+    }
+
+/* footer */
+@media (max-width: 481px)  {
+    .footer_class  {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+}
+
